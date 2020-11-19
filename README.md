@@ -30,11 +30,17 @@ Con esta información buscaremos analizar si existe una relación correlación e
 
 El dataset contempla 1.736 filas y 37 columnas, donde cada fila representa un espacio verde y cada columna una característica. 
 Debido a una mala calidad de algunas features, ya sea por Nulls o datos irrelevantes, se redujeron a las siguientes: Nombre, clasificación, barrio, comuna, área, perímetro y geometría. Este último es el que nos permitirá graficar los espacios dentro del mapa con la extensión de geopandas. Para comenzar a explorar los datos se realizó un boxplot de las áreas de los EV según su clasificación y se obtuvo lo siguiente:
+
+![image](https://user-images.githubusercontent.com/28718644/99609709-2fc08200-29ef-11eb-857a-c2f37760cd72.png)
  
 (*) Para el siguiente gráfico se eliminaron los outliers y la categoría “Parque semipúblico” para que la escala sea apreciable visualmente. Luego, para entender cuál es la distribución por comuna se procedió a realizar un barplot de la suma total de M2 de EV por comuna subdividido por clasificación:
+
+![image](https://user-images.githubusercontent.com/28718644/99609718-34853600-29ef-11eb-9533-dc4739e0fbbd.png)
  
 Se observan grandes diferencias entre las comunas. 
 .Las clasificaciones que más M2 aportas son aquellas que menos cantidad hay. Finalmente se procedió a generar un gráfico del mapa para visualizar dónde se encuentran y qué volumen ocupan los distintos EV dentro de la ciudad, según su clasificación.
+
+![image](https://user-images.githubusercontent.com/28718644/99609725-3818bd00-29ef-11eb-9aca-1d9fa0f0c096.png)
   
 ### Población
 
@@ -148,9 +154,9 @@ Debido a que es un conjunto de datos de tan solo 15 samples (ya que hay 15 comun
 Finalmente se realizó un gráfico en Geopandas de la cantidad de M2 de EV por comunas donde se puede ver cuales cumplen con la recomendación de la ONU, siendo esta mayor a 9 M2 de EV por habitante:
 
 
-![image](https://user-images.githubusercontent.com/28718644/99609709-2fc08200-29ef-11eb-857a-c2f37760cd72.png)
-![image](https://user-images.githubusercontent.com/28718644/99609718-34853600-29ef-11eb-9533-dc4739e0fbbd.png)
-![image](https://user-images.githubusercontent.com/28718644/99609725-3818bd00-29ef-11eb-9aca-1d9fa0f0c096.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/28718644/99609732-3b13ad80-29ef-11eb-8fa5-2af944ce3037.png)
 ![image](https://user-images.githubusercontent.com/28718644/99609737-3e0e9e00-29ef-11eb-9255-b134de1f9f62.png)
 ![image](https://user-images.githubusercontent.com/28718644/99609748-41a22500-29ef-11eb-9a75-1aa37abc10e6.png)
