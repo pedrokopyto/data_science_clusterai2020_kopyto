@@ -20,11 +20,11 @@ Para realizar el análisis utilizamos 3 datasets de la Ciudad Autónoma de Bueno
 
 ![image](https://user-images.githubusercontent.com/28718644/99610866-626b7a00-29f1-11eb-8a44-5ed964d59b51.png)
 
-El dataset principal será el de espacios verdes, que contiene la información geográfica y clasificación de las áreas dentro de la Ciudad. En él se pueden encontrar distintos espacios separados por barrios como así también por comunas. 
+El dataset principal será el de **espacios verdes**, que contiene la información geográfica y clasificación de las áreas dentro de la Ciudad. En él se pueden encontrar distintos espacios separados por barrios como así también por comunas. 
  
-Por otro lado, el dataset de la población. En él se encuentra la evolución de los habitantes de la Ciudad desde 2015 a 2020, discriminado por comuna, por sexo y rango etario, como así tambien la estimación población propia del Gobierno de la Ciudad de la población hasta el año 2025.
+Por otro lado, el dataset de la **población**. En él se encuentra la evolución de los habitantes de la Ciudad desde 2015 a 2020, discriminado por comuna, por sexo y rango etario, como así tambien la estimación población propia del Gobierno de la Ciudad de la población hasta el año 2025.
  
-Por último, el de presupuestos que contiene los gastos de los distintos órganos del Gobierno de la Ciudad Autónoma de Buenos Aires a lo largo de los años.
+Por último, el de **presupuestos** que contiene los gastos de los distintos órganos del Gobierno de la Ciudad Autónoma de Buenos Aires a lo largo de los años.
  
 Además, para realizar un análisis de la valoración de los espacios verdes por parte de los habitantes utilizaremos la información de Google Maps sobre los mismos. Esto se logró mediante un scrap de datos donde obtuvimos la cantidad de reviews y la calificación de las distintas áreas. 
 Con esta información buscaremos analizar si existe una relación correlación entre las características y distribución de cada espacio verde (ya sea tipo de espacio, superficie, área, ubicación, etc.) y las valoraciones de los mismos (calificación o reviews).
