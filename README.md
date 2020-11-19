@@ -16,7 +16,7 @@ Abstract: A lo largo del informe analizaremos los datos obtenidos de los espacio
 El trabajo surge del cuestionamiento e inquietud de saber cómo es la distribución de espacios verdes en la Ciudad Autónoma de Buenos Aires. La cantidad de metros cuadrados por persona de espacios verdes es una problemática que atraviesan la mayoría de las ciudades cosmopolitas del mundo. La OMS (Organización Mundial de la Salud)  recomienda un mínimo de 9 metros cuadrados por persona de áreas verdes. Estos espacios provocan beneficios en la salud de las personas. Debido a la importancia de lo mencionado, buscaremos analizar los datos y la situación de la Ciudad. 
 
 ## 2.Descripción de los datasets
-Para realizar el análisis utilizamos 3 datasets de la Ciudad Autónoma de Buenos Aires.
+Para realizar el análisis utilizamos 3 datasets de la Ciudad Autónoma de Buenos Aires. ![image](https://user-images.githubusercontent.com/28718644/99610866-626b7a00-29f1-11eb-8a44-5ed964d59b51.png)
 El dataset principal será el de espacios verdes, que contiene la información geográfica y clasificación de las áreas dentro de la Ciudad. En él se pueden encontrar distintos espacios separados por barrios como así también por comunas. 
  
 Por otro lado, el dataset de la población. En él se encuentra la evolución de los habitantes de la Ciudad desde 2015 a 2020, discriminado por comuna, por sexo y rango etario, como así tambien la estimación población propia del Gobierno de la Ciudad de la población hasta el año 2025.
