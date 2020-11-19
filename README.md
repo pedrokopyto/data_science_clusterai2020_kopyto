@@ -1,6 +1,6 @@
 # TP_Grupo0_Ciencia_Datos
 
-![image](https://user-images.githubusercontent.com/28718644/99610553-d2c5cb80-29f0-11eb-82d7-3866ddeca3a9.png)       
+![image](https://user-images.githubusercontent.com/28718644/99610553-d2c5cb80-29f0-11eb-82d7-3866ddeca3a9.png)     
 ![image](https://user-images.githubusercontent.com/28718644/99610634-f557e480-29f0-11eb-9ca6-c3fb83b1c4b8.png)
 
 # Aplicación de Machine Learning al análisis de espacios verdes en la Ciudad Autónoma de Buenos Aires
