@@ -146,3 +146,23 @@ Luego se generó un en heatmap para analizar las features de los distintos EDA s
 Debido a que es un conjunto de datos de tan solo 15 samples (ya que hay 15 comunas) no tendría sentido aplicar algún algoritmo de ML, pero si se puede entender cuán relacionadas están las variables. Como por ejemplo Mientras más densidad poblacional en la comuna, mayor será la cantidad de reviews en sus EV, por eso el valor obtenido es de 0,64.
 
 Finalmente se realizó un gráfico en Geopandas de la cantidad de M2 de EV por comunas donde se puede ver cuales cumplen con la recomendación de la ONU, siendo esta mayor a 9 M2 de EV por habitante:
+
+
+![image](https://user-images.githubusercontent.com/28718644/99609709-2fc08200-29ef-11eb-857a-c2f37760cd72.png)
+![image](https://user-images.githubusercontent.com/28718644/99609718-34853600-29ef-11eb-9533-dc4739e0fbbd.png)
+![image](https://user-images.githubusercontent.com/28718644/99609725-3818bd00-29ef-11eb-9aca-1d9fa0f0c096.png)
+![image](https://user-images.githubusercontent.com/28718644/99609732-3b13ad80-29ef-11eb-8fa5-2af944ce3037.png)
+![image](https://user-images.githubusercontent.com/28718644/99609737-3e0e9e00-29ef-11eb-9255-b134de1f9f62.png)
+![image](https://user-images.githubusercontent.com/28718644/99609748-41a22500-29ef-11eb-9a75-1aa37abc10e6.png)
+![image](https://user-images.githubusercontent.com/28718644/99609768-48c93300-29ef-11eb-9fee-fc6c04147b32.png)
+![image](https://user-images.githubusercontent.com/28718644/99609771-4bc42380-29ef-11eb-8fc2-c73898a2bed2.png)
+![image](https://user-images.githubusercontent.com/28718644/99609777-4ebf1400-29ef-11eb-8951-38cd41c9cdff.png)
+![image](https://user-images.githubusercontent.com/28718644/99609785-51ba0480-29ef-11eb-9293-8a48f78e4f80.png)
+![image](https://user-images.githubusercontent.com/28718644/99609793-54b4f500-29ef-11eb-84d5-f68c75ce56ff.png)
+![image](https://user-images.githubusercontent.com/28718644/99609802-57afe580-29ef-11eb-972e-85fa24a2395e.png)
+![image](https://user-images.githubusercontent.com/28718644/99609807-5a123f80-29ef-11eb-9746-2af858048266.png)
+![image](https://user-images.githubusercontent.com/28718644/99609816-5e3e5d00-29ef-11eb-91b5-114464cff3d1.png)
+![image](https://user-images.githubusercontent.com/28718644/99609820-60082080-29ef-11eb-92c9-4e6d632d8f5f.png)
+![image](https://user-images.githubusercontent.com/28718644/99609842-66969800-29ef-11eb-8671-0bc399967f54.png)
+![image](https://user-images.githubusercontent.com/28718644/99609848-68f8f200-29ef-11eb-8462-c4010d0d0c1c.png)
+
